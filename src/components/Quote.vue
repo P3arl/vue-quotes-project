@@ -13,8 +13,8 @@
 
 <style scoped>
     .panel-body {
-        font-family: 'Arizonia', cursive;
-        font-size: 24px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 18px;
         color: blueviolet;
     }
 
